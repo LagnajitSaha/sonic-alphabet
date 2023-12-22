@@ -1,0 +1,38 @@
+svg{
+    border: 3px solid black;
+    padding: 3px;
+    margin: 1px 10px 1px 1px;
+}
+.dark-mode{
+    background-color: black;
+    color: white;
+}
+.card{
+    background-color: rgb(104, 216, 188);
+    border: 5px solid black;
+    box-shadow: 10px 10px 10px black;
+}
+.pressed{
+    box-shadow: 5px 5px 5px 0px rgb(101, 31, 214);
+    opacity: 0.3;
+}
+.heading{
+    text-align: center;
+    font-family: 'Sevillana';
+    font-weight: 900;
+    font-size: 4rem;
+}
+h3{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.info{
+    border-radius: 1rem;
+    color: brown;
+    background-color: chartreuse;
+}
+button.info{
+    box-shadow: 5px 5px 5px rgb(121, 226, 240);
+}
